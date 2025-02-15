@@ -1,3 +1,5 @@
+![Banner](https://github.com/patriciakennedy/patriciakennedy/blob/main/New%20Project.jpg)
+
 ## Hi there 👋
 
 <!--
