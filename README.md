@@ -27,7 +27,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 
 
-### 🎓 Recent Learning Projects  
+### 📚 Recent Learning Projects  
 *Smaller projects & experiments as I explore new technologies.*  
 
 | Repository | Link | Description |
@@ -40,7 +40,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 ### 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=patriciakennedy&show_icons=true&theme=radical" alt="Patricia's GitHub Stats">
 
-### 🏆 Experience  
+### 👔 Experience  
 
 | Position | Company | Field | Work Period |
 |----------|---------|-------|------------|
@@ -56,7 +56,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 
 
-### 🚀 Technologies I Use
+### 🛠 Technologies I Use
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
