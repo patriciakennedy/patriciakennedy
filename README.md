@@ -10,7 +10,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 
 
-<h2>🚧 <b>Under Construction</b> 🚧</h2>
+<h2>🚧 <b>Profile - Under Construction</b> 🚧</h2>
 <p><b>I'm currently updating my GitHub profile. Stay tuned for more projects and details!</b></p>
 
 
@@ -70,3 +70,15 @@ I love creating projects that are impactful, user-friendly, and built to last.
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
+### 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&label=">
+  </a>
+</p>
+
+
+### 👀 Visitor Count  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=patriciakennedy&color=green&style=flat&label=Visitors)
