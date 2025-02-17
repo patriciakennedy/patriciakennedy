@@ -32,7 +32,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Repository | Link | Description |
 |------------|------|-------------|
-| **[React Hooks Demo]#)** | [Code](#) | Experimenting with React Hooks |
+| **[React Hooks Demo](#)** | [Code](#) | Experimenting with React Hooks |
 | **[Tailwind CSS Components](#)** | [Webstore](#) | Collection of reusable Tailwind CSS components |
 | **[Node.js Auth System](#)** | [Repo](#) | Learning JWT authentication in Node.js |
 
