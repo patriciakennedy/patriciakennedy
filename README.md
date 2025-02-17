@@ -53,7 +53,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 - 📜 **Full-Stack Web Development Bootcamp** @ [Prime Academy](http://primeacademy.io/) *(2024 - Present)*
 - 🛠 **Google IT Support Professional Certificate** @ [Coursera](https://www.coursera.org/) *(2022)*
-     **Certificate** - [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/UYLSBD8Y8LCD) 
+     - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/UYLSBD8Y8LCD) 
 - 🎓 **Associate’s Degree in Web Design & Front-End Development** @ [Minneapolis College](https://minneapolis.edu/) *(2016 - 2019)*
 
 
