@@ -20,10 +20,10 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Repository | Link | Description |
 |------------|------|-------------|
-| **[Add repository name here](https://github.com/patriciakennedy/project1)** | [Website](https://yourwebsite.com) | Short description of the project |
-| **[Add repository name here](https://github.com/patriciakennedy/project2)** | [Website](https://yourwebsite.com) | Short description of the project |
-| **[Add repository name here](https://github.com/patriciakennedy/project3)** | [Demo](https://yourdemo.com) | Short description of the project |
-| **[Add repository name here](https://github.com/patriciakennedy/project4)** | [Video](https://yourvideo.com) | Short description of the project |
+| **[Project 1](https://github.com/patriciakennedy/project1)** | [Website](https://yourwebsite.com) | Under Development |
+| **[Project 2](https://github.com/patriciakennedy/project2)** | [Website](https://yourwebsite.com) | Under Development |
+| **[Project 3](https://github.com/patriciakennedy/project3)** | [Demo](https://yourdemo.com) | Under Development |
+| **[Project 4](https://github.com/patriciakennedy/project4)** | [Video](https://yourvideo.com) | Under Development |
 
 
 
@@ -51,7 +51,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 ### 🎓 Education  
 
-- 🎓 **Bachelor’s Degree in Computer Science** @ [University Name](https://university-website.com) *(2018 - 2022)*
+- 🎓 **Associate’s Degree in Web Development** @ [Minneapolis College](https://minneapolis.edu/) *(2016 - 2019)*
 - 📜 **Full-Stack Web Development Bootcamp** @ [Bootcamp Name](https://bootcamp-link.com) *(2023)*
 
 
