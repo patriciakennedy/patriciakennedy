@@ -44,7 +44,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Position | Company | Field | Work Period |
 |----------|---------|-------|------------|
-| Senior HB Specialist | [Target Coperation](https://corporate.target.com/) | IT Help Desk | 2023-03 — Now |
+| Senior HB Specialist | [Target Coperation](https://corporate.target.com/) | IT Technical Support | 2023-03 — Now |
 | CSC Support Specialist | [Randstad](https://www.randstadusa.com/) | IT Technical Support | 2019-07 — 2023-02 |
 | ICT Manager | [AECOM](https://aecom.com/) | IT Infrastructure Management | 2013 — 2016 |
 | IT Assistant | [United Nations](https://www.un.org/) | System & Database Administration |  |
