@@ -20,7 +20,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Repository | Link | Description |
 |------------|------|-------------|
-| **[Project 1](https://github.com/patriciakennedy/project1)** | [Website](https://yourwebsite.com) | Under Development |
+| **[Project 1](#)** | [Website](https://yourwebsite.com) | Under Development |
 | **[Project 2](https://github.com/patriciakennedy/project2)** | [Website](https://yourwebsite.com) | Under Development |
 | **[Project 3](https://github.com/patriciakennedy/project3)** | [Demo](https://yourdemo.com) | Under Development |
 | **[Project 4](https://github.com/patriciakennedy/project4)** | [Video](https://yourvideo.com) | Under Development |
@@ -44,7 +44,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Position | Company | Field | Work Period |
 |----------|---------|-------|------------|
-| Full-Stack Developer | [Company Name](https://company-website.com) | Web Development | 2023-06 — Now |
+| Senior HB Specialist | [Target Coperation](https://corporate.target.com/) | Web Development | 2023-06 — Now |
 | Software Engineer Intern | [Tech Startup](https://startup-link.com) | Backend Development | 2022-09 — 2023-05 |
 | IT Support | [XYZ Corporation](https://company.com) | System Administration | 2021-01 — 2022-08 |
 
@@ -71,7 +71,7 @@ I love creating projects that are impactful, user-friendly, and built to last.
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
-### 🌐 Connect With Me  
+### 🌐 Connect  
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
