@@ -44,14 +44,14 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Position | Company | Field | Work Period |
 |----------|---------|-------|------------|
-| Senior HB Specialist | [Target Coperation](https://corporate.target.com/) | Web Development | 2023-06 — Now |
-| Software Engineer Intern | [Tech Startup](https://startup-link.com) | Backend Development | 2022-09 — 2023-05 |
-| IT Support | [XYZ Corporation](https://company.com) | System Administration | 2021-01 — 2022-08 |
-
+| Senior HB Specialist | [Target Coperation](https://corporate.target.com/) | IT Help Desk | 2023-03 — Now |
+| CSC Support Specialist | [Randstad](https://www.randstadusa.com/) | IT Technical Support | 2019-07 — 2023-02 |
+| ICT Manager | [AECOM](https://aecom.com/) | IT Infrastructure Management | 2013 — 2016 |
+| IT Assistant | [United Nations](https://www.un.org/) | System & Database Administration |  |
 
 ### 🎓 Education  
 
-- 📜 **Full-Stack Web Development Bootcamp** @ [Prime Academy](http://primeacademy.io/) *(2024 - Present)*
+- 📜 **Full-Stack Web Development Bootcamp** @ [Prime Academy](http://primeacademy.io/) *(2024 - Now)*
 - 🛠 **Google IT Support Professional Certificate** @ [Coursera](https://www.coursera.org/) *(2022)*
      - [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/UYLSBD8Y8LCD) 
 - 🎓 **Associate’s Degree in Web Design & Front-End Development** @ [Minneapolis College](https://minneapolis.edu/) *(2016 - 2019)*
