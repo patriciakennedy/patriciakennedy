@@ -20,10 +20,10 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Repository | Link | Description |
 |------------|------|-------------|
-| **[Project 1](#)** | [Website](https://yourwebsite.com) | Under Development |
-| **[Project 2](https://github.com/patriciakennedy/project2)** | [Website](https://yourwebsite.com) | Under Development |
-| **[Project 3](https://github.com/patriciakennedy/project3)** | [Demo](https://yourdemo.com) | Under Development |
-| **[Project 4](https://github.com/patriciakennedy/project4)** | [Video](https://yourvideo.com) | Under Development |
+| **[Project 1](#)** | [Website](#) | Under Development |
+| **[Project 2](#)** | [Website](#) | Under Development |
+| **[Project 3](#)** | [Demo](#) | Under Development |
+| **[Project 4](#)** | [Video](#) | Under Development |
 
 
 
@@ -32,9 +32,9 @@ I love creating projects that are impactful, user-friendly, and built to last.
 
 | Repository | Link | Description |
 |------------|------|-------------|
-| **[React Hooks Demo](https://github.com/patriciakennedy/react-hooks-demo)** | [Code](https://github.com/patriciakennedy/react-hooks-demo) | Experimenting with React Hooks |
-| **[Tailwind CSS Components](https://github.com/patriciakennedy/tailwind-components)** | [Webstore](https://yourstore.com) | Collection of reusable Tailwind CSS components |
-| **[Node.js Auth System](https://github.com/patriciakennedy/node-auth)** | [Repo](https://github.com/patriciakennedy/node-auth) | Learning JWT authentication in Node.js |
+| **[React Hooks Demo]#)** | [Code](#) | Experimenting with React Hooks |
+| **[Tailwind CSS Components](#)** | [Webstore](#) | Collection of reusable Tailwind CSS components |
+| **[Node.js Auth System](#)** | [Repo](#) | Learning JWT authentication in Node.js |
 
 
 ### 📊 GitHub Stats  
