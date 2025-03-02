@@ -5,7 +5,7 @@
 
 I'm Patricia, a Full-Stack Web Developer with a passion for modern web technologies.
 
-Currently, I'm building scalable and interactive web applications, exploring AI integration in web development.
+Currently, I'm building scalable and interactive web applications.
 I love creating projects that are impactful, user-friendly, and built to last.
 
 
